@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Elhadj19
-- 👀 I’m interested in Digital, web and data applications 
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on many project 
+- 👋 Hi, I’m @Elhadj
+- 👀 Interested in Digital, web and data applications 
+- 💞️ I’m looking to collaborate on many projects 
 - 📫 How to reach me: elhadj.dlo19@gmail.com
 
 <!---
