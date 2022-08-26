@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elhadj
-- 👀 Interested in Digital, web and data applications 
+- 👀 Interested about tech and data applications in business
 - 💞️ I’m looking to collaborate on many projects 
 - 📫 How to reach me: elhadj.dlo19@gmail.com
 -  French/English
